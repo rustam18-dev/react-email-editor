@@ -1,0 +1,20 @@
+{
+  "emails": [
+    {
+      "text": "a title",
+      "id": "9a9f"
+    },
+    {
+      "id": "27ae",
+      "text": "Enter text"
+    },
+    {
+      "id": "d906",
+      "text": "<b>Hello</b>, <i>world</i>!"
+    },
+    {
+      "id": "ab59",
+      "text": "Enter text"
+    }
+  ]
+}
